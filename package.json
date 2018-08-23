@@ -7,6 +7,10 @@
     "test": "ava",
     "prepublish": "rollup -c"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indatawetrust/keci.git"
+  },
   "author": "indatawetrust",
   "license": "MIT",
   "devDependencies": {
