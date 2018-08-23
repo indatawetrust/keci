@@ -9,7 +9,7 @@ npm i keci --save
 
 #### usage
 ```js
-const {setIn, getIn, deleteIn, updateIn, filterIn} = require('./bundle')
+const {setIn, getIn, deleteIn, updateIn, filterIn} = require('keci')
 
 const arr = [{ user: "foo", age: 20 },{ user: "bar", age: 25 }, { user: "zoo", age: 20 }]
 
